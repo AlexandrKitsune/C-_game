@@ -1,0 +1,5 @@
+int main
+{
+  std::cout << "New_File" << std::endl;
+  return 0
+}
